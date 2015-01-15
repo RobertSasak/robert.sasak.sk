@@ -29,7 +29,7 @@
 		"position": "Senior Web Developer",
 		"website": "http://stormgeo.com",
 		"startDate": "2011-05-02",
-		"endDate": "2011-05-02",
+		"endDate": "",
 		"summary": "StormGeo is leading weather forecasting company providing weather forecast for both end users and private companies.",
 		"highlights": [
 			"Migrate project from ASP.NET to single page appplication.",
