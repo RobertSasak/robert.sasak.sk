@@ -1,0 +1,117 @@
+{
+	"basics": {
+		"name": "Robert Sasak",
+		"label": "Professional life enjoyer",
+		"picture": "robert-sasak.jpg",
+		"email": "robert.sasak@gmail.com",
+		"phone": "+47 92 44 65 89",
+		"website": "https://robert.sasak.sk",
+		"summary": "Robert comes originaly from Slovakia. He has earned degrees from the Charles University in Prague and University of Bergen, Norway. He has a strong theoretical background in planning problems and computational complexity theory, but at the same time he is very passionate about web development. Robert moved away from backend to developent to solely frontend while he still likes hack it NodeJS.",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Bergen",
+			"countryCode": "",
+			"region": "Norway"
+		},
+		"profiles": [{
+			"network": "Twitter",
+			"username": "RobertSasak",
+			"url": "https://twitter.com/RobertSasak"
+		}, {
+			"network": "GitHub",
+			"username": "RobertSasak",
+			"url": "https://github.com/RobertSasak"
+		}]
+	},
+	"work": [{
+		"company": "StormGeo",
+		"position": "Senior Web Developer",
+		"website": "http://stormgeo.com",
+		"startDate": "2011-05-02",
+		"endDate": "2011-05-02",
+		"summary": "StormGeo is leading weather forecasting company providing weather forecast for both end users and private companies.",
+		"highlights": [
+			"Migrate project from ASP.NET to single page appplication.",
+			"Publish on all platforms: desktop, mobile web, iOS app, Android app, Windows 8 App.",
+			"Optimazed serving of the app for high traffic volumes."
+		]
+	}],
+	"volunteer": [{
+		"organization": "Resh",
+		"position": "founder",
+		"website": "http://resh.io",
+		"startDate": "2014",
+		"endDate": "",
+		"summary": "Command line in the cloud."
+	}, {
+		"organization": "BrowSync",
+		"position": "founder",
+		"website": "http://browsync.net",
+		"startDate": "2014",
+		"endDate": "",
+		"summary": "Tool for web developers that allows synchronized browsing across desktop, mobile, Android, iOS and Windows devices."
+	}, {
+		"organization": "Norgeskart",
+		"position": "founder",
+		"website": "http://nkart.no",
+		"startDate": "2013",
+		"endDate": "",
+		"summary": "Several map solutions build with NodeJS, PhoneGap, WebGL.",
+		"highlights": [
+			"Top 10 app in App Store (Navigation, Norway)",
+			"3d map of Norway",
+			"Printing map booklets"
+		]
+	}],
+	"education": [{
+		"institution": "University of Bergen, Norway",
+		"area": "Department of Informatics",
+		"studyType": "Master",
+		"startDate": "2008",
+		"endDate": "2010"
+	}, {
+		"institution": "Charles University in Prague, Czech republic",
+		"area": "Department of Informatics",
+		"studyType": "Bachelor",
+		"startDate": "2005",
+		"endDate": "2010"
+	}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript"
+		]
+	}, {
+		"name": "Technology",
+		"level": "Master",
+		"keywords": [
+			"angularJS",
+			"NodeJS",
+			"PhoneGap"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "fluent"
+	}, {
+		"language": "Slovak",
+		"fluency": "Native speaker"
+	}, {
+		"language": "Czech",
+		"fluency": "Native speaker"
+	}, {
+		"language": "Norwegian",
+		"fluency": "intermediate"
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": [
+			"frisbee",
+			"kiting"
+		]
+	}]
+}

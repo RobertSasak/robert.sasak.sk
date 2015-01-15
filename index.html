@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title> </title>
+		<link href="http://bootswatch.com/lumen/bootstrap.min.css" rel="stylesheet" />
+		<style>
+			@import url(http://fonts.googleapis.com/css?family=Open+Sans:300|Oswald:300);
+
+body {
+	font-family: 'Open Sans', 'Helvetica Neue Light', sans-serif;
+	font-weight: 300;
+}
+
+h1,h2,h3 {
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	font-weight: 700;
+}
+
+h2,h3 {
+	font-weight: 300;
+}
+
+main {
+	padding: 20px 0;
+}
+
+.vr {
+	display: inline;
+	margin: 0.5em 0px;
+	width: 1px;
+	height: 1em;
+	border-left: 1px solid gray;
+}
+
+
+section#header img {
+	padding: 20px;
+}
+
+section#header .title .vr {
+	display: none;;
+}
+	
+@media(min-width:768px), print {
+	section#header img {
+		width: 4em;
+		height: 4em;
+		padding: 0px;
+		float: right;
+	}
+	section#header .title h1,h2 {
+		display: inline !important;
+		padding-right: 20px;
+	}
+	section#header .title .vr {
+		display: inline;
+	}
+}
+
+section#skills .details {
+	-moz-column-count: 2;
+	-moz-column-gap: 0px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 0px;
+	column-count: 2;
+	column-gap: 0px;
+}
+
+.details h4 {
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+.date {
+	font-size: 15px;
+	line-height: 24px;
+}
+.website {
+	line-height: 18px;
+}
+
+
+/* Fix for print */
+@media print {
+
+	a[href]:after {
+		content: none !important;
+	}
+
+	body {
+		font-size: 9px;
+	}
+	h1 {
+		font-size: 31px;
+	}
+	h2 {
+		font-size: 25px;
+	}
+	h3 {
+		font-size: 19px;
+	}
+
+	.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+		float: left;
+	}
+	.col-sm-12 {
+		width: 100%;
+	}
+	.col-sm-11 {
+		width: 91.66666666666666%;
+	}
+	.col-sm-10 {
+		width: 83.33333333333334%;
+	}
+	.col-sm-9 {
+		width: 75%;
+	}
+	.col-sm-8 {
+		width: 66.66666666666666%;
+	}
+	.col-sm-7 {
+		width: 58.333333333333336%;
+	}
+	.col-sm-6 {
+		width: 50%;
+	}
+	.col-sm-5 {
+		width: 41.66666666666667%;
+	}
+	.col-sm-4 {
+		width: 33.33333333333333%;
+	}
+	.col-sm-3 {
+		width: 25%;
+	}
+	.col-sm-2 {
+		width: 16.666666666666664%;
+	}
+	.col-sm-1 {
+		width: 8.333333333333332%;
+	}
+
+}
+
+		</style>
+
+
+	</head>
+	<body>
+		<div class='container-fluid'>
+			<main class="row">
+			<div class="col-sm-12 col-md-10 col-md-offset-1">
+				<section id='header' class="row">
+				<div class="col-sm-9 col-xs-12 title">
+					<h1>Robert Sasak</h1>
+					<h2 class='vr'></h2>
+					<h2>Professional life enjoyer</h2>
+				</div>
+				<div class="col-sm-3 col-xs-12 text-center photo">
+					<img class="media-object img-circle" data-src="holder.js/64x64" alt="64x64" src="http:&#x2F;&#x2F;www.gravatar.com&#x2F;avatar&#x2F;0ac2b0290a18d02da1a2b24195d49559?size=100&amp;rating=g&amp;default=blank">
+				</div>
+				</section>
+				<hr style="color: #ccc; height: 4px;" />
+				<section id='about' class="row">
+				<header class="col-sm-3">
+				<h3>About</h3>
+				</header>
+				<div class="col-sm-9">
+					<p>Robert comes originaly from Slovakia. He has earned degrees from the Charles University in Prague and University of Bergen, Norway. He has a strong theoretical background in Planning problems and computational complexity theory, but at the same time very passionate about web development. Robert moved away from backend to developent to solely frontend while he still likes to hack it NodeJS.</p>
+					<strong>Website:</strong> <a href="https:&#x2F;&#x2F;robert.sasak.sk">https:&#x2F;&#x2F;robert.sasak.sk</a> <br />
+					<strong>Phone:</strong> +47 92 44 65 89 <br />
+					<strong>Email:</strong> <a href="mailto:robert.sasak@gmail.com">robert.sasak@gmail.com</a><br />
+						<section id="profiles">
+							<strong class="network">
+								Twitter:
+							</strong>
+							<a target="_blank" href="https:&#x2F;&#x2F;twitter.com&#x2F;RobertSasak">RobertSasak</a>
+							<br />
+							<strong class="network">
+								GitHub:
+							</strong>
+							<a target="_blank" href="https:&#x2F;&#x2F;github.com&#x2F;RobertSasak">RobertSasak</a>
+							<br />
+						</section>
+				</div>
+				</section>
+				<hr />
+				<section id='work' class="row">
+				<header class="col-sm-3">
+				<h3>Work Experience</h3>
+				</header>
+				<div class="col-sm-9">
+					<div class="details">
+						<h3>StormGeo<span class="date pull-right">2011 - 2011</span></h3>
+						<strong>Senior Web Developer</strong>
+						<div class="website pull-right">
+							<a target="_blank" href="http:&#x2F;&#x2F;stormgeo.com">http:&#x2F;&#x2F;stormgeo.com</a>
+						</div>
+						<p>StormGeo is leading weather forecasting company providing weather forecast for both end users and private companies.</p>
+						<ul>
+							<li>Migrate project from ASP.NET to single page appplication.</li>
+							<li>Publish on all platforms: desktop, mobile web, iOS app, Android app, Windows 8 App.</li>
+							<li>Optimazed serving of the app for high traffic volumes.</li>
+						</ul>
+					</div>
+				</div>
+				</section>
+				<hr />
+
+				<section id='education' class="row">
+				<header class="col-sm-3">
+				<h3>Education</h3>
+				</header>
+				<div class="col-sm-9">
+					<div class="details">
+						<h3>University of Bergen, Norway<span class="date pull-right">2008 - 2010</span></h3>
+						<strong>Department of Informatics, Master</strong>
+						<p></p>
+						<h3>Charles University in Prague, Czech republic<span class="date pull-right">2005 - 2010</span></h3>
+						<strong>Department of Informatics, Bachelor</strong>
+						<p></p>
+					</div>
+				</div>
+				</section>
+				<hr />
+				<section id='skills' class="row">
+				<header class="col-sm-3">
+				<h3>Skills</h3>
+				</header>
+				<div class="col-sm-9">
+					<div class="details row">
+						<div class='col-sm-12'>
+							<ul>
+								<li>
+								<h4>Web Development <span class="pull-right">Master</span></h4>
+								<ul>
+									<li>HTML</li>
+									<li>CSS</li>
+									<li>Javascript</li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+						<div class='col-sm-12'>
+							<ul>
+								<li>
+								<h4>Technology <span class="pull-right">Master</span></h4>
+								<ul>
+									<li>angularJS</li>
+									<li>NodeJS</li>
+									<li>PhoneGap</li>
+								</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				</section>
+				<hr />
+				<section id='volunteer' class="row">
+				<header class="col-sm-3">
+				<h3>Volunteer</h3>
+				</header>
+				<div class="col-sm-9">
+					<div class="details">
+						<h3>Resh<span class="date pull-right">2014 - Present</span></h3>
+						<strong>founder</strong>
+						<div class="website pull-right">
+							<a target="_blank" href="http:&#x2F;&#x2F;resh.io">http:&#x2F;&#x2F;resh.io</a>
+						</div>
+						<p>Command line in the cloud.</p>
+						<ul>
+						</ul>
+						<h3>BrowSync<span class="date pull-right">2014 - Present</span></h3>
+						<strong>founder</strong>
+						<div class="website pull-right">
+							<a target="_blank" href="http:&#x2F;&#x2F;browsync.net">http:&#x2F;&#x2F;browsync.net</a>
+						</div>
+						<p>Tool for web developers that allows synchronized browsing across desktop, mobile, Android, iOS and Windows devices.</p>
+						<ul>
+						</ul>
+						<h3>Norgeskart<span class="date pull-right">2013 - Present</span></h3>
+						<strong>founder</strong>
+						<div class="website pull-right">
+							<a target="_blank" href="http:&#x2F;&#x2F;nkart.no">http:&#x2F;&#x2F;nkart.no</a>
+						</div>
+						<p>Several map solutions build with NodeJS, PhoneGap, WebGL.</p>
+						<ul>
+							<li>Top 10 app in App Store (Navigation, Norway)</li>
+							<li>3d map of Norway</li>
+							<li>Printing map booklets</li>
+						</ul>
+					</div>
+				</div>
+				</section>
+				<hr />
+				<section id='languages' class="row">
+				<header class="col-sm-3">
+				<h3>Languages</h3>
+				</header>
+				<div class="col-sm-9">
+					<div class="details">
+						<ul>
+							<li>
+							<h4>English <span class="pull-right">fluent</span></h4>
+							</li>
+						</ul>
+						<ul>
+							<li>
+							<h4>Slovak <span class="pull-right">Native speaker</span></h4>
+							</li>
+						</ul>
+						<ul>
+							<li>
+							<h4>Czech <span class="pull-right">Native speaker</span></h4>
+							</li>
+						</ul>
+						<ul>
+							<li>
+							<h4>Norwegian <span class="pull-right">intermediate</span></h4>
+							</li>
+						</ul>
+					</div>
+				</div>
+				</section>
+				<hr />
+				<footer></footer>
+			</div>
+			</main>
+		</div>
+
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+	</body>
+</html>
