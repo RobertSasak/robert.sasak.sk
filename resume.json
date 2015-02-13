@@ -6,7 +6,7 @@
 		"email": "robert.sasak@gmail.com",
 		"phone": "+47 92 44 65 89",
 		"website": "https://robert.sasak.sk",
-		"summary": "Robert comes originaly from Slovakia. He has earned degrees from the Charles University in Prague and University of Bergen, Norway. He has a strong theoretical background in planning problems and computational complexity theory, but at the same time he is very passionate about web development. Robert moved away from backend to developent to solely frontend while he still likes hack it NodeJS.",
+		"summary": "Robert comes originaly from Slovakia. He has earned degrees from the Charles University in Prague and University of Bergen, Norway. He has a strong theoretical background in planning problems and computational complexity theory, but at the same time he is very passionate about web development. Robert moved away from backend to solely frontend development. However NodeJS still covers his back.",
 		"location": {
 			"address": "",
 			"postalCode": "",
@@ -43,7 +43,7 @@
 		"website": "http://resh.io",
 		"startDate": "2014",
 		"endDate": "",
-		"summary": "Command line in the cloud."
+		"summary": "Command line in the cloud. Build with NodeJS, Docker."
 	}, {
 		"organization": "BrowSync",
 		"position": "founder",
