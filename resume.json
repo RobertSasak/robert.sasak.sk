@@ -79,7 +79,7 @@
 	}],
 	"skills": [{
 		"name": "Web Development",
-		"level": "Master",
+		"level": "",
 		"keywords": [
 			"HTML",
 			"CSS",
@@ -87,7 +87,7 @@
 		]
 	}, {
 		"name": "Technology",
-		"level": "Master",
+		"level": "",
 		"keywords": [
 			"angularJS",
 			"NodeJS",
