@@ -8,3 +8,34 @@ section#header img {
 section#header .title h1, h2 {
 	text-align: center;
 }
+
+@media print {
+	hr { 
+		display: none;
+	}
+}
+
+ul {
+	list-style-type: none;
+}
+
+ul, ul li {
+	padding: 0;
+	margin: 0;
+}
+
+@media print {
+	.details .col-sm-12 {
+		width: 50%;
+	}
+}
+
+#languages h4 {
+	font-size: 1.5em;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+#languages ul:first-child h4 {
+	margin-top: 20px;
+}
