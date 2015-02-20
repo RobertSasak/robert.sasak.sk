@@ -6,7 +6,7 @@
 		"email": "robert.sasak@gmail.com",
 		"phone": "+47 92 44 65 89",
 		"website": "https://robert.sasak.sk",
-		"summary": "Robert comes originaly from Slovakia. He has earned degrees from the Charles University in Prague and University of Bergen, Norway. He has a strong theoretical background in planning problems and computational complexity theory, but at the same time he is very passionate about web development. Robert moved away from backend to solely frontend development. However NodeJS still covers his back.",
+		"summary": "Robert comes originaly from Slovakia. He has earned degrees from the Charles University in Prague and University of Bergen, Norway. He has a strong theoretical background in planning problems and computational complexity theory. At the same time he is very passionate about web development. Robert moved away from backend to solely frontend development. However NodeJS still covers his back.",
 		"location": {
 			"address": "",
 			"postalCode": "",
@@ -32,9 +32,9 @@
 		"endDate": "",
 		"summary": "StormGeo is leading weather forecasting company providing weather forecast for both end users and private companies.",
 		"highlights": [
-			"Migrate project from ASP.NET to single page appplication.",
+			"Migrate project from ASP.NET to single page appplication using angularJS.",
 			"Publish on all platforms: desktop, mobile web, iOS app, Android app, Windows 8 App.",
-			"Optimazed serving of the app for high traffic volumes."
+			"Optimization of the app for high volume traffic."
 		]
 	}],
 	"volunteer": [{
@@ -81,9 +81,9 @@
 		"name": "Web Development",
 		"level": "",
 		"keywords": [
+			"Javascript",
 			"HTML",
-			"CSS",
-			"Javascript"
+			"CSS"
 		]
 	}, {
 		"name": "Technology",
@@ -91,6 +91,7 @@
 		"keywords": [
 			"angularJS",
 			"NodeJS",
+			"mongoDB / couchDB",
 			"PhoneGap"
 		]
 	}],
@@ -99,10 +100,7 @@
 		"fluency": "fluent"
 	}, {
 		"language": "Slovak",
-		"fluency": "Native speaker"
-	}, {
-		"language": "Czech",
-		"fluency": "Native speaker"
+		"fluency": "native speaker"
 	}, {
 		"language": "Norwegian",
 		"fluency": "intermediate"
