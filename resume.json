@@ -25,6 +25,14 @@
 		}]
 	},
 	"work": [{
+		"company": "Knowit",
+		"position": "Web Developer",
+		"website": "http://www.knowitgroup.com/",
+		"startDate": "2010-12-01",
+		"endDate": "2011-05-01",
+		"summary": "Knowit (Reaktor) is one of the leading consultancy firms in the Nordic region.",
+		"highlights": ["Developing customized website for clients with high demands using Umbraco framework."]
+	}, {
 		"company": "StormGeo",
 		"position": "Senior Web Developer",
 		"website": "http://stormgeo.com",
@@ -32,8 +40,8 @@
 		"endDate": "",
 		"summary": "StormGeo is leading weather forecasting company providing weather forecast for both end users and private companies.",
 		"highlights": [
-			"Migrate project from ASP.NET to single page appplication using angularJS.",
-			"Publish on all platforms: desktop, mobile web, iOS app, Android app, Windows 8 App.",
+			"Migrate project from ASP.NET to single page appplication using AngularJS.",
+			"Cross platforms solution: desktop, mobile web, iOS app, Android app, Windows 8 App.",
 			"Optimization of the app for high volume traffic."
 		]
 	}],
@@ -89,9 +97,9 @@
 		"name": "Technology",
 		"level": "",
 		"keywords": [
-			"angularJS",
+			"AngularJS",
 			"NodeJS",
-			"mongoDB / couchDB",
+			"MongoDB / CouchDB",
 			"PhoneGap"
 		]
 	}],
