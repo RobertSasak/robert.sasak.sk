@@ -25,14 +25,6 @@
 		}]
 	},
 	"work": [{
-		"company": "Knowit",
-		"position": "Web Developer",
-		"website": "http://www.knowitgroup.com/",
-		"startDate": "2010-12-01",
-		"endDate": "2011-05-01",
-		"summary": "Knowit (Reaktor) is one of the leading consultancy firms in the Nordic region.",
-		"highlights": ["Developing customized website for clients with high demands using Umbraco framework."]
-	}, {
 		"company": "StormGeo",
 		"position": "Senior Web Developer",
 		"website": "http://stormgeo.com",
@@ -44,6 +36,14 @@
 			"Cross platforms solution: desktop, mobile web, iOS app, Android app, Windows 8 App.",
 			"Optimization of the app for high volume traffic."
 		]
+	}, {
+		"company": "Knowit",
+		"position": "Web Developer",
+		"website": "http://www.knowitgroup.com/",
+		"startDate": "2010-12-01",
+		"endDate": "2011-05-01",
+		"summary": "Knowit (Reaktor) is one of the leading consultancy firms in the Nordic region.",
+		"highlights": ["Developing customized website for clients with high demands using Umbraco framework."]
 	}],
 	"volunteer": [{
 		"organization": "Resh",
