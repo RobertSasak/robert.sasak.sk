@@ -1,5 +1,5 @@
 section#header img {
-	width: 50%;
+	width: 50% !important;
 	height: auto;
 	padding: 0;
 	margin: 0 auto;

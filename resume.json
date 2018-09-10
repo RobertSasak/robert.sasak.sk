@@ -14,132 +14,170 @@
 			"countryCode": "",
 			"region": "Norway"
 		},
-		"profiles": [{
-			"network": "Twitter",
-			"username": "RobertSasak",
-			"url": "https://twitter.com/RobertSasak"
-		}, {
-			"network": "GitHub",
-			"username": "RobertSasak",
-			"url": "https://github.com/RobertSasak"
-		}]
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "RobertSasak",
+				"url": "https://twitter.com/RobertSasak"
+			},
+			{
+				"network": "GitHub",
+				"username": "RobertSasak",
+				"url": "https://github.com/RobertSasak"
+			}
+		]
 	},
-	"work": [{
-		"company": "Sparebanken Vest",
-		"position": "Senior Web Developer",
-		"website": "http://www.spv.no",
-		"startDate": "2017-01-01",
-		"endDate": "",
-		"summary": "Sparebanken Vest is Norway 3rd biggest bank with strong focus on digital services.",
-		"highlights": [
-			"Create responsive React app"
-		]
-	},{
-		"company": "StormGeo",
-		"position": "Senior Web Developer",
-		"website": "http://stormgeo.com",
-		"startDate": "2011-05-02",
-		"endDate": "2016-12-01",
-		"summary": "StormGeo is leading weather forecasting company providing weather forecast for both end users and private companies.",
-		"highlights": [
-			"Migrate project from ASP.NET to single page appplication using AngularJS.",
-			"Cross platforms solution: desktop, mobile web, iOS app, Android app, Windows 8 App.",
-			"Optimization of the app for high volume traffic."
-		]
-	}, {
-		"company": "Knowit",
-		"position": "Web Developer",
-		"website": "http://www.knowitgroup.com/",
-		"startDate": "2010-12-01",
-		"endDate": "2011-05-01",
-		"summary": "Knowit (Reaktor) is one of the leading consultancy firms in the Nordic region.",
-		"highlights": ["Developing customized website for clients with high demands using Umbraco framework."]
-	}],
-	"volunteer": [ {
-		"organization": "Norgesruter",
-		"position": "Founder",
-		"website": "https://www.norgesruter.no",
-		"startDate": "2015",
-		"endDate": "",
-		"summary": "Public transport planner for Norway.",
-		"highlights": [
-			"Responsive Web, Android app, iOS app",
-			"Bus, tram, train, ferry, plane",
-			"Cordova, Angular"
-		]
-	},{
-		"organization": "Resh",
-		"position": "Founder",
-		"website": "http://resh.io",
-		"startDate": "2014",
-		"endDate": "",
-		"summary": "Command line in the cloud. Build with NodeJS, Docker."
-	}, {
-		"organization": "BrowSync",
-		"position": "Founder",
-		"website": "http://browsync.net",
-		"startDate": "2014",
-		"endDate": "",
-		"summary": "Tool for web developers that allows synchronized browsing across desktop, mobile, Android, iOS and Windows devices."
-	}, {
-		"organization": "Norgeskart",
-		"position": "Founder",
-		"website": "https://norgeskart.org",
-		"startDate": "2013",
-		"endDate": "",
-		"summary": "Several map solutions build with NodeJS, PhoneGap, WebGL.",
-		"highlights": [
-			"Top 10 app in App Store (Navigation, Norway)",
-			"3d map of Norway",
-			"Printing map booklets"
-		]
-	}],
-	"education": [{
-		"institution": "University of Bergen, Norway",
-		"area": "Department of Informatics",
-		"studyType": "Master",
-		"startDate": "2008",
-		"endDate": "2010"
-	}, {
-		"institution": "Charles University in Prague, Czech republic",
-		"area": "Department of Informatics",
-		"studyType": "Bachelor",
-		"startDate": "2005",
-		"endDate": "2010"
-	}],
-	"skills": [{
-		"name": "Web Development",
-		"level": "",
-		"keywords": [
-			"Javascript",
-			"HTML",
-			"CSS"
-		]
-	}, {
-		"name": "Technology",
-		"level": "",
-		"keywords": [
-			"AngularJS",
-			"NodeJS",
-			"MongoDB / CouchDB",
-			"PhoneGap"
-		]
-	}],
-	"languages": [{
-		"language": "English",
-		"fluency": "fluent"
-	}, {
-		"language": "Slovak",
-		"fluency": "native speaker"
-	}, {
-		"language": "Norwegian",
-		"fluency": "intermediate"
-	}],
-	"interests": [{
-		"name": "Sports",
-		"keywords": [
-			"frisbee",
-			"kiting"
-		]
-	}]
+	"work": [
+		{
+			"company": "Norgeskart",
+			"position": "CEO",
+			"website": "https://norgeskart.net",
+			"startDate": "2018-01-01",
+			"endDate": "",
+			"summary": "Norgeskart is the most detailed map of Norway. App is available for both iOS and Android.",
+			"highlights": [
+				"Hobby project became fulltime job.",
+				"ReactNative app"
+			]
+		},
+		{
+			"company": "Sparebanken Vest",
+			"position": "Senior Web Developer",
+			"website": "https://www.spv.no",
+			"startDate": "2017-01-01",
+			"endDate": "2017-06-01",
+			"summary": "Sparebanken Vest is Norway 3rd biggest bank with strong focus on digital services.",
+			"highlights": [
+				"Create responsive React app"
+			]
+		},
+		{
+			"company": "StormGeo",
+			"position": "Senior Web Developer",
+			"website": "http://stormgeo.com",
+			"startDate": "2011-05-02",
+			"endDate": "2016-12-01",
+			"summary": "StormGeo is leading weather forecasting company providing weather forecast for both end users and private companies.",
+			"highlights": [
+				"Migrate project from ASP.NET to single page appplication using AngularJS.",
+				"Cross platforms solution: desktop, mobile web, iOS app, Android app, Windows 8 App.",
+				"Optimization of the app for high volume traffic."
+			]
+		},
+		{
+			"company": "Knowit",
+			"position": "Web Developer",
+			"website": "https://www.knowit.eu/",
+			"startDate": "2010-12-01",
+			"endDate": "2011-05-01",
+			"summary": "Knowit (Reaktor) is one of the leading consultancy firms in the Nordic region.",
+			"highlights": [
+				"Developing customized website for clients with high demands using Umbraco framework."
+			]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Norgesruter",
+			"position": "Founder",
+			"website": "https://www.norgesruter.no",
+			"startDate": "2015",
+			"endDate": "",
+			"summary": "Public transport planner for Norway.",
+			"highlights": [
+				"Responsive Web, Android app, iOS app",
+				"Bus, tram, train, ferry, plane",
+				"Cordova, Angular"
+			]
+		},
+		{
+			"organization": "Resh",
+			"position": "Founder",
+			"website": "http://resh.io",
+			"startDate": "2014",
+			"endDate": "",
+			"summary": "Command line in the cloud. Build with NodeJS, Docker."
+		},
+		{
+			"organization": "BrowSync",
+			"position": "Founder",
+			"website": "http://browsync.net",
+			"startDate": "2014",
+			"endDate": "",
+			"summary": "Tool for web developers that allows synchronized browsing across desktop, mobile, Android, iOS and Windows devices."
+		},
+		{
+			"organization": "Norgeskart",
+			"position": "Founder",
+			"website": "https://norgeskart.net",
+			"startDate": "2013",
+			"endDate": "",
+			"summary": "Several map solutions build with NodeJS, PhoneGap, WebGL, ReactNative.",
+			"highlights": [
+				"Top 10 app in App Store (Navigation, Norway)",
+				"3D map of Norway",
+				"Printing map booklets"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "University of Bergen, Norway",
+			"area": "Department of Informatics",
+			"studyType": "Master",
+			"startDate": "2008",
+			"endDate": "2010"
+		},
+		{
+			"institution": "Charles University in Prague, Czech republic",
+			"area": "Department of Informatics",
+			"studyType": "Bachelor",
+			"startDate": "2005",
+			"endDate": "2010"
+		}
+	],
+	"skills": [
+		{
+			"name": "Web Development",
+			"level": "",
+			"keywords": [
+				"Javascript",
+				"HTML",
+				"CSS"
+			]
+		},
+		{
+			"name": "Technology",
+			"level": "",
+			"keywords": [
+				"ReactNative",
+				"AngularJS",
+				"NodeJS",
+				"MongoDB / CouchDB"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "fluent"
+		},
+		{
+			"language": "Slovak",
+			"fluency": "native speaker"
+		},
+		{
+			"language": "Norwegian",
+			"fluency": "intermediate"
+		}
+	],
+	"interests": [
+		{
+			"name": "Sports",
+			"keywords": [
+				"frisbee",
+				"kiting"
+			]
+		}
+	]
 }
